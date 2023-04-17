@@ -1,6 +1,6 @@
 import statistics
 import matplotlib.pyplot as plt 
-FILEPATH = "lsb.txt"
+FILEPATH = " input.txt"
 # Open the input file and read the contents
 with open(FILEPATH, 'r') as f:
     contents = f.read().strip()

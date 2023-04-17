@@ -1,5 +1,5 @@
 import math
-FILENAME = "lsb.txt"
+FILENAME = "input.txt"
 
 
 with open(FILENAME, "r") as file:
